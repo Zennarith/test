@@ -34,7 +34,7 @@ Kami adalah mahasiswa dari Universitas Bina Sarana Informatika (UBSI Cut Mutia) 
 <strong>Pengguna</strong>
 <ol>
 <li>Pengguna dapat melihat katalog kue dan harga</li>
-<li>Pengguna dapat memberikan ulasan mengenai website</li>
+<li>Pengguna dapat memberikan ulasan mengenai kontak</li>
 </ol>
 
 <!-- Sesuaikan dengan hak akses dari project masing-masing kelompok -->
