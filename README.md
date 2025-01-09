@@ -42,20 +42,12 @@ Kami adalah mahasiswa dari Universitas Bina Sarana Informatika (UBSI Cut Mutia) 
 ## Screenshot
 <table width="100%">
 <tr>
-<td><h3 align="center">Menu 1</h3><img src="1.jpg"></td>
-<td><h3 align="center">Menu 2</h3><img src="2.jpg"></td>
+<td><h3 align="center">Beranda</h3><img src="1.jpg"></td>
+<td><h3 align="center">Tentang Kami</h3><img src="2.jpg"></td>
 </tr>
 <tr>
-<td><h3 align="center">Menu 3</h3><img src="3.jpg"></td>
-<td><h3 align="center">Menu 4</h3><img src="4.jpg"></td>
-</tr>
-<tr>
-<td><h3 align="center">Menu 5</h3><img src="folder/image5.jpg"></td>
-<td><h3 align="center">Menu 6</h3><img src="folder/image6.jpg"></td>
-</tr>
-<tr>
-<td><h3 align="center">Menu 7</h3><img src="folder/image7.jpg"></td>
-<td><h3 align="center">Menu 8</h3><img src="folder/image8.jpg"></td>
+<td><h3 align="center">Menu Kami</h3><img src="3.jpg"></td>
+<td><h3 align="center">Kontak</h3><img src="5.jpg"></td>
 </tr>
 </table>
 
