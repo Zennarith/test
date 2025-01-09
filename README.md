@@ -5,7 +5,7 @@
 
 ## Pengenalan Project
 
-LorANANANANAAN
+Kami adalah mahasiswa dari Universitas BCA yang sedang mengerjakan tugas akhir dengan tema pembuatan website. Dalam project ini, kami memilih untuk membuat sebuah website yang berfokus pada bisnis kue. Tujuan dari website ini adalah untuk memberikan solusi digital bagi pelaku usaha kue dalam memasarkan produk mereka secara online, sekaligus mempermudah pelanggan dalam mencari dan memesan kue sesuai kebutuhan mereka. Melalui project ini, kami juga ingin menunjukkan kemampuan kami dalam merancang dan mengembangkan website yang fungsional dan menarik
 
 ## Nama Kelompok
 <table border="1">
