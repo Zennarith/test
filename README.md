@@ -33,15 +33,10 @@ Kami adalah mahasiswa dari Universitas Bina Sarana Informatika (UBSI Cut Mutia) 
 ## Skenario Kebutuhan Pengguna
 <strong>Pengguna</strong>
 <ol>
-<li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-<li>Illo amet nesciunt ipsam velit? Perferendis quo, corrupti assumenda ipsa commodi laborum aliquam..</li>
+<li>Pengguna dapat melihat katalog kue dan harga</li>
+<li>Pengguna dapat memberikan ulasan mengenai website</li>
 </ol>
 
-<strong>Admin</strong>
-<ol>
-<li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
-<li>Illo amet nesciunt ipsam velit? Perferendis quo, corrupti assumenda ipsa commodi laborum aliquam..</li>
-</ol>
 <!-- Sesuaikan dengan hak akses dari project masing-masing kelompok -->
 
 ## Screenshot
