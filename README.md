@@ -19,28 +19,13 @@ LorANANANANAAN
   <tbody>
     <tr>
       <td>1</td>
-      <td>19XXXXXX</td>
-      <td>Fulan bin Fulan</td>
+      <td>19235168</td>
+      <td>Putra Sutan Rajab</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>19XXXXXX</td>
-      <td>Fulan bin Fulan</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>19XXXXXX</td>
-      <td>Fulan bin Fulan</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>19XXXXXX</td>
-      <td>Fulan bin Fulan</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>19XXXXXX</td>
-      <td>Fulan bin Fulan</td>
+      <td>19235064</td>
+      <td>Jeremi Andreas Tambunan</td>
     </tr>
   </tbody>
 </table>
