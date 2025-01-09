@@ -5,7 +5,7 @@
 
 ## Pengenalan Project
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, quasi! Sint aspernatur culpa, cupiditate vitae expedita sit impedit esse rem fugiat, modi est, eveniet iusto molestias qui deleniti voluptatum quos!
+LorANANANANAAN
 
 ## Nama Kelompok
 <table border="1">
