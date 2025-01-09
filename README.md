@@ -25,7 +25,7 @@ Kami adalah mahasiswa dari Universitas Bina Sarana Informatika (UBSI Cut Mutia) 
     <tr>
       <td>2</td>
       <td>19235064</td>
-      <td>Jeremi Andreas Tambunan</td>
+      <td>Jeremia Andreas Tambunan</td>
     </tr>
   </tbody>
 </table>
