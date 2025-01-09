@@ -5,7 +5,7 @@
 
 ## Pengenalan Project
 
-Kami adalah mahasiswa dari Universitas BCA yang sedang mengerjakan tugas akhir dengan tema pembuatan website. Dalam project ini, kami memilih untuk membuat sebuah website yang berfokus pada bisnis kue. Tujuan dari website ini adalah untuk memberikan solusi digital bagi pelaku usaha kue dalam memasarkan produk mereka secara online, sekaligus mempermudah pelanggan dalam mencari dan memesan kue sesuai kebutuhan mereka. Melalui project ini, kami juga ingin menunjukkan kemampuan kami dalam merancang dan mengembangkan website yang fungsional dan menarik
+Kami adalah mahasiswa dari Universitas Bina Sarana Informatika (UBSI Cut Mutia) yang sedang mengerjakan tugas akhir dengan tema pembuatan website kue. Dalam project ini, kami memilih untuk membuat sebuah website bertema bisnis kue yaitu Jepuri Cake sebagai bentuk penerapan ilmu yang telah kami pelajari. Website ini dirancang untuk memudahkan pelanggan dalam melihat produk, memesan kue, dan mendapatkan informasi terkait usaha kue. Website ini bertujuan untuk mendukung digitalisasi usaha kue dengan menyediakan platform yang memudahkan pelanggan dalam mencari, melihat, dan memesan produk kue. Dengan project ini, kami berharap dapat memberikan kontribusi nyata dalam menghubungkan kebutuhan pelanggan dengan usaha kuliner secara efektif.
 
 ## Nama Kelompok
 <table border="1">
