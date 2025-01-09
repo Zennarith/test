@@ -1,0 +1,374 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    /* untuk menghilangkan garis bawah*/
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #D91656;
+    color: white;
+    /*min-height: 4000;*/
+}
+
+.navbar {
+    /* navbar = jepuri cake, beranda, tentang, menu, kontak, search, shopping-cart*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 7%;
+    background-color: rgb(255, 218, 185);
+    border-bottom: 1px solid white;
+    /* navbar tetap diatas ketika scroll kebawah*/
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    /* navbar tetap diatas ketika scroll kebawah*/
+}
+
+.navbar .navbar-logo {
+    /*navbar logo = Jepuri Cake*/
+    font-size: 32px;
+    font-weight: 700;
+    color: #D91656;
+    font-style: italic;
+    /*navbar logo = Jepuri Cake*/
+}
+
+.navbar .navbar-logo span {
+    color: white;
+}
+
+.navbar .navbar-nav a {
+    color: #D91656;
+    display: inline-block;
+    font-size: 1.3rem;
+    margin: 0 16px;
+}
+
+.navbar .navbar-nav a:hover {
+    color: white;
+    /*memunculkan warna pink sebelum di klik*/
+}
+
+.navbar .navbar-extra a {
+    color: #D91656;
+    margin: 0 0.5rem;
+}
+
+.navbar .navbar-extra a:hover {
+    color: white;
+}
+
+#hamburger-menu {
+    /*disembunyikan ketika memakai layar desktop dan muncul ketika memakai layar hp */
+    display: none;
+}
+
+/* Hero Section*/
+.hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url(../img/cake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero::after {
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.hero .content {
+    padding: 1.4rem 7%;
+    max-width: 60rem;
+}
+
+.hero .content h1 {
+    font-size: 5em;
+    color: #FFDAB9;
+    text-shadow: 1px 1px;
+}
+
+
+.hero .content p {
+    font-size: 1.6rem;
+    color: #D91656;
+}
+
+.hero .content .cta {
+    margin-top: 16px;
+    display: inline-block;
+    padding: 16px 48px;
+    font-size: 20px;
+    color: white;
+    background-color: #FFDAB9;
+    border-radius: 8px;
+}
+
+/*About  Section*/
+.about,
+.menu {
+    padding: 112px 7% 1.4rem;
+}
+
+.about h2,
+.menu h2 {
+    text-align: center;
+    font-size: 41px;
+    margin-bottom: 80px;
+}
+
+.about .row {
+    display: flex;
+}
+
+.about .row .about-img {
+    flex: 1 1 20rem;
+}
+
+.about .row .about-img img {
+    /* bagian foto about*/
+    width: 100%;
+    border-radius: 8%;
+}
+
+.about .row .content {
+    flex: 1 1 30rem;
+    padding: 0 1rem;
+}
+
+.about .row .content h3 {
+    font-size: 20.8;
+    margin-bottom: 16px;
+    margin-top: 8px;
+}
+
+.about .row .content p {
+    margin-bottom: 12px;
+    font-size: 22px;
+    line-height: 30px;
+}
+
+/* Menu Setion*/
+
+.menu h2 {
+    margin-bottom: 30px;
+    padding-top: 16px;
+}
+
+.menu p {
+    text-align: center;
+    max-width: 480px;
+    margin: auto;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+
+.menu .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5rem;
+    justify-content: center;
+}
+
+.menu .row .menu-card {
+    text-align: center;
+    padding: 16px;
+}
+
+.menu .row .menu-card img {
+    border-radius: 5%;
+    width: 350px;
+    height: auto;
+}
+
+.menu-card img:hover {
+    transform: scale(1.05);
+    z-index: 2;
+}
+
+.menu .row .menu-card .menu-card-title {
+    margin-top: 22px auto 8px;
+    line-height: 30px;
+}
+
+
+/*Contact Section start*/
+.contact h2 {
+    text-align: center;
+    font-size: 2.6rem;
+    margin-bottom: 1.2rem;
+    padding-top: 9rem;
+}
+
+.contact p {
+    text-align: center;
+    max-width: 30rem;
+    margin: auto;
+    font-size: 1.2rem;
+    line-height: 0.5rem;
+    padding-bottom: 2rem;
+}
+
+.contact .row {
+    display: flex;
+    margin-top: 2rem;
+    background-color: #FFDAB9;
+
+}
+
+.contact .row .map {
+    flex: 1 1 45rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+/*Contact Section end*/
+
+/*Form Start*/
+.contact .row form {
+    flex: 1 1 45rem;
+    padding: 5rem 2rem;
+    text-align: center;
+}
+
+.contact .row form {
+    padding-top: 1rem;
+}
+
+.contact .row form .input-group {
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+    padding-left: 2rem;
+}
+
+.contact .row form .input-group input {
+    width: 100%;
+    padding: 2rem;
+    font-size: 1.7rem;
+    background: white;
+    border-radius: 0.8rem;
+}
+
+.contact .row form .btn {
+    margin: 3rem;
+    display: inline-block;
+    padding: 1rem 3rem;
+    font-size: 1.7rem;
+    color: white;
+    background-color: #D91656;
+    border-radius: 0.8rem;
+    cursor: pointer;
+}
+
+
+/*Form End*/
+
+/*Footer start*/
+footer {
+    background-color: #D91656;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/*Footer end*/
+
+
+/* Media querries*/
+
+/* Laptop*/
+@media (max-width: 1366px) {
+    html {
+        font-size: 75%;
+    }
+}
+
+/*Tablet*/
+@media (max-width: 768px) {
+    html {
+        font-size: 62.5%;
+    }
+
+    #hamburger-menu {
+        display: inline-block;
+    }
+
+    .navbar .navbar-nav {
+        position: absolute;
+        top: 100%;
+        right: -100%;
+        background-color: #FFDAB9;
+        width: 30rem;
+        height: 100vh;
+        transition: 0.3s;
+        border-top: 1px solid white;
+    }
+
+    .navbar .navbar-nav.active {
+        right: 0;
+    }
+
+    .navbar .navbar-nav a {
+        color: #D91656;
+        display: block;
+        margin: 1, 5rem;
+        padding: 0.5rem;
+        font-size: 2rem;
+    }
+
+    .about .row {
+        flex-wrap: wrap;
+    }
+
+    .about .row .about-img img {
+        height: 24rem;
+        object-fit: cover;
+        object-position: center;
+    }
+
+    .about .row .content {
+        padding: 0;
+    }
+
+    .about .row .content h3 {
+        margin-top: 1rem;
+        font-size: 2rem;
+    }
+
+    .about .row .content p {
+        font-size: 1.6rem;
+    }
+
+    .contact .row {
+        flex-wrap: wrap;
+    }
+
+    .contact .row .map {
+        height: 30rem;
+    }
+
+}
+
+
+/*Phone*/
+@media (max-width: 450px) {
+    html {
+        font-size: 55%;
+    }
+}
